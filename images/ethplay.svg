@@ -1,0 +1,40 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="602" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse fill-opacity="0" ry="200" rx="200" id="svg_1" cy="299.750017" cx="297.750154" stroke-width="0.5" stroke="#000" fill="#ffffff"/>
+  <ellipse ry="90" rx="90" id="svg_6" cy="299.750017" cx="298.750154" stroke-width="1.5" stroke="#00007f" fill="#000"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="307.750017" x="244.250154" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">ETHPLAY</text>
+  <ellipse ry="70" rx="70" id="svg_7" cy="70.750003" cx="298.750143" stroke-width="1.5" stroke="#000" fill="#7c8081"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_14" y="42.736627" x="274.252081" stroke-width="0" stroke="#000" fill="#ffffff">Game</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_15" y="60.984794" x="254.75361" stroke-width="0" stroke="#000" fill="#ffffff">developers</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_16" y="104.232976" x="263.752895" stroke-width="0" stroke="#000" fill="#ffffff">(Solidity)</text>
+  <ellipse ry="70" rx="70" id="svg_17" cy="299.750136" cx="529.7503" stroke-width="1.5" stroke="#000" fill="#7c8081"/>
+  <ellipse ry="70" rx="70" id="svg_23" cy="299.750136" cx="70.749995" stroke-width="1.5" stroke="#000" fill="#7c8081"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_19" y="292.984929" x="14.499956" stroke-width="0" stroke="#000" fill="#ffffff">Token holders</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_21" y="81.984807" x="264.750143" stroke-width="0" stroke="#000" fill="#ffffff">backend</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_22" y="315.984944" x="34.999979" stroke-width="0" stroke="#000" fill="#ffffff">(owners)</text>
+  <ellipse ry="70" rx="70" id="svg_24" cy="529.750306" cx="299.750144" stroke-width="1.5" stroke="#000" fill="#7c8081"/>
+  <ellipse ry="70" rx="70" id="svg_25" cy="138.750029" cx="136.750039" stroke-width="1.5" stroke="#000" fill="#7c8081"/>
+  <ellipse ry="70" rx="70" id="svg_26" cy="144.750033" cx="465.626235" stroke-width="1.5" stroke="#000" fill="#7c8081"/>
+  <ellipse ry="70" rx="70" id="svg_27" cy="456.750242" cx="464.750258" stroke-width="1.5" stroke="#000" fill="#7c8081"/>
+  <ellipse ry="70" rx="70" id="svg_28" cy="455.750241" cx="134.750038" stroke-width="1.5" stroke="#000" fill="#7c8081"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_29" y="115.736656" x="112.250023" stroke-width="0" stroke="#000" fill="#ffffff">Game</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_30" y="134.984824" x="92.750012" stroke-width="0" stroke="#000" fill="#ffffff">developers</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_31" y="175.233003" x="120.250032" stroke-width="0" stroke="#000" fill="#ffffff">(JS)</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_32" y="154.984836" x="103.750019" stroke-width="0" stroke="#000" fill="#ffffff">frontend</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_33" y="461.750222" x="103.750012" stroke-width="0" stroke="#000" fill="#ffffff">Players</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_34" y="527.750263" x="240.750127" stroke-width="0" stroke="#000" fill="#ffffff">Game security</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_35" y="546.750274" x="266.750139" stroke-width="0" stroke="#000" fill="#ffffff">auditors</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_36" y="150.750039" x="417.126242" stroke-width="0" fill="#ffffff">Game hosts</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_39" y="305.750143" x="492.250254" stroke-width="0" fill="#ffffff">Investors</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_41" y="462.750267" x="419.750276" stroke-width="0" stroke="#000" fill="#ffffff">Advertisers</text>
+ </g>
+</svg>
